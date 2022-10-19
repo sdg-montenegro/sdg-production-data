@@ -1,0 +1,71 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ukupno",
+                "na 1000 ljudi",
+                ""
+              ]
+            },
+            "title": "Jedinica"
+          },
+          {
+            "name": "Count",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ljekari",
+                "medicinske sestre i babice",
+                "stomatološko osoblje",
+                "farmaceutsko osoblje",
+                "populacija",
+                ""
+              ]
+            },
+            "title": "Brojnost"
+          },
+          {
+            "name": "Density",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ljekari",
+                "medicinske sestre i babice",
+                "stomatološko osoblje",
+                "farmaceutsko osoblje",
+                ""
+              ]
+            },
+            "title": "Gustina"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-c-1",
+  "title": "Health worker density and distribution"
+}

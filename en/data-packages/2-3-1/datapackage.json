@@ -1,0 +1,116 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "total",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "total",
+                "< 1 GJR",
+                "1-2 GJR",
+                "2-3 GJR",
+                "> 3 GJR",
+                "Farms SPG 2016 - hectares",
+                "Farms PP 2010 - hectares",
+                "Family farms",
+                "Companies",
+                ""
+              ]
+            },
+            "title": "Category"
+          },
+          {
+            "name": "Economic class",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of farms",
+                "< 2000",
+                "2000-4000",
+                "4000-8000",
+                " 8000-15000",
+                "15000-25000",
+                "> 25000",
+                ""
+              ]
+            },
+            "title": "Economic size classes of farms in 2010"
+          },
+          {
+            "name": "Size class",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Without land",
+                "<0.10",
+                "0.10-0.50",
+                "0.50-1.00",
+                "1.00-2.00",
+                "2.00-3.00",
+                "3.00-4.00",
+                "4.00-5.00",
+                "5.00-6.00",
+                "6.00-8.00",
+                "8.00-10.00",
+                "10.00-15.00",
+                "15.00-20.00",
+                "20.00-30.00",
+                "30.00-50.00",
+                "50.00-100.00",
+                ">100.00",
+                ""
+              ]
+            },
+            "title": "Class size according to used agricultural land (ha)"
+          },
+          {
+            "name": "LSU class",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Farms",
+                "LSU",
+                ""
+              ]
+            },
+            "title": "LSU"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "2-3-1",
+  "title": "Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size"
+}

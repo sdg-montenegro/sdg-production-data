@@ -1,0 +1,100 @@
+Year,Units,Brojnost,Gustina,Value
+2010,ukupno,ljekari,,1260.0
+2011,ukupno,ljekari,,1241.0
+2012,ukupno,ljekari,,1257.0
+2013,ukupno,ljekari,,1326.0
+2014,ukupno,ljekari,,1350.0
+2015,ukupno,ljekari,,1466.0
+2016,ukupno,ljekari,,1589.0
+2017,ukupno,ljekari,,1650.0
+2018,ukupno,ljekari,,1720.0
+2019,ukupno,ljekari,,1708.0
+2020,ukupno,ljekari,,1721.0
+2010,ukupno,medicinske sestre i babice,,3298.0
+2011,ukupno,medicinske sestre i babice,,3204.0
+2012,ukupno,medicinske sestre i babice,,3090.0
+2013,ukupno,medicinske sestre i babice,,3377.0
+2014,ukupno,medicinske sestre i babice,,3413.0
+2015,ukupno,medicinske sestre i babice,,3352.0
+2016,ukupno,medicinske sestre i babice,,3410.0
+2017,ukupno,medicinske sestre i babice,,3200.0
+2018,ukupno,medicinske sestre i babice,,3283.0
+2019,ukupno,medicinske sestre i babice,,3302.0
+2020,ukupno,medicinske sestre i babice,,3374.0
+2010,ukupno,stomatološko osoblje,,26.0
+2011,ukupno,stomatološko osoblje,,24.0
+2012,ukupno,stomatološko osoblje,,25.0
+2013,ukupno,stomatološko osoblje,,25.0
+2014,ukupno,stomatološko osoblje,,25.0
+2015,ukupno,stomatološko osoblje,,25.0
+2016,ukupno,stomatološko osoblje,,30.0
+2017,ukupno,stomatološko osoblje,,29.0
+2018,ukupno,stomatološko osoblje,,29.0
+2019,ukupno,stomatološko osoblje,,32.0
+2020,ukupno,stomatološko osoblje,,31.0
+2010,ukupno,farmaceutsko osoblje,,91.0
+2011,ukupno,farmaceutsko osoblje,,92.0
+2012,ukupno,farmaceutsko osoblje,,93.0
+2013,ukupno,farmaceutsko osoblje,,105.0
+2014,ukupno,farmaceutsko osoblje,,106.0
+2015,ukupno,farmaceutsko osoblje,,109.0
+2016,ukupno,farmaceutsko osoblje,,108.0
+2017,ukupno,farmaceutsko osoblje,,109.0
+2018,ukupno,farmaceutsko osoblje,,120.0
+2019,ukupno,farmaceutsko osoblje,,127.0
+2020,ukupno,farmaceutsko osoblje,,143.0
+2010,ukupno,populacija,,619428.0
+2011,ukupno,populacija,,620029.0
+2012,ukupno,populacija,,620029.0
+2013,ukupno,populacija,,620029.0
+2014,ukupno,populacija,,620029.0
+2015,ukupno,populacija,,620029.0
+2016,ukupno,populacija,,620029.0
+2017,ukupno,populacija,,620029.0
+2018,ukupno,populacija,,620029.0
+2019,ukupno,populacija,,620029.0
+2020,ukupno,populacija,,620029.0
+2010,na 1000 ljudi,,ljekari,203.41
+2011,na 1000 ljudi,,ljekari,200.15
+2012,na 1000 ljudi,,ljekari,202.73
+2013,na 1000 ljudi,,ljekari,213.86
+2014,na 1000 ljudi,,ljekari,217.73
+2015,na 1000 ljudi,,ljekari,236.44
+2016,na 1000 ljudi,,ljekari,256.28
+2017,na 1000 ljudi,,ljekari,266.12
+2018,na 1000 ljudi,,ljekari,277.41
+2019,na 1000 ljudi,,ljekari,275.47
+2020,na 1000 ljudi,,ljekari,277.57
+2010,na 1000 ljudi,,medicinske sestre i babice,532.43
+2011,na 1000 ljudi,,medicinske sestre i babice,516.75
+2012,na 1000 ljudi,,medicinske sestre i babice,498.36
+2013,na 1000 ljudi,,medicinske sestre i babice,544.65
+2014,na 1000 ljudi,,medicinske sestre i babice,550.46
+2015,na 1000 ljudi,,medicinske sestre i babice,540.62
+2016,na 1000 ljudi,,medicinske sestre i babice,549.97
+2017,na 1000 ljudi,,medicinske sestre i babice,516.1
+2018,na 1000 ljudi,,medicinske sestre i babice,529.49
+2019,na 1000 ljudi,,medicinske sestre i babice,532.56
+2020,na 1000 ljudi,,medicinske sestre i babice,544.17
+2010,na 1000 ljudi,,stomatološko osoblje,4.2
+2011,na 1000 ljudi,,stomatološko osoblje,3.87
+2012,na 1000 ljudi,,stomatološko osoblje,4.03
+2013,na 1000 ljudi,,stomatološko osoblje,4.03
+2014,na 1000 ljudi,,stomatološko osoblje,4.03
+2015,na 1000 ljudi,,stomatološko osoblje,4.03
+2016,na 1000 ljudi,,stomatološko osoblje,4.84
+2017,na 1000 ljudi,,stomatološko osoblje,4.68
+2018,na 1000 ljudi,,stomatološko osoblje,4.68
+2019,na 1000 ljudi,,stomatološko osoblje,5.16
+2020,na 1000 ljudi,,stomatološko osoblje,5.0
+2010,na 1000 ljudi,,farmaceutsko osoblje,14.69
+2011,na 1000 ljudi,,farmaceutsko osoblje,14.84
+2012,na 1000 ljudi,,farmaceutsko osoblje,15.0
+2013,na 1000 ljudi,,farmaceutsko osoblje,16.93
+2014,na 1000 ljudi,,farmaceutsko osoblje,17.1
+2015,na 1000 ljudi,,farmaceutsko osoblje,17.58
+2016,na 1000 ljudi,,farmaceutsko osoblje,17.42
+2017,na 1000 ljudi,,farmaceutsko osoblje,17.58
+2018,na 1000 ljudi,,farmaceutsko osoblje,19.35
+2019,na 1000 ljudi,,farmaceutsko osoblje,20.48
+2020,na 1000 ljudi,,farmaceutsko osoblje,23.06
