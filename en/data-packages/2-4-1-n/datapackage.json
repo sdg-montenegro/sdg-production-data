@@ -13,18 +13,18 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Godina"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Vrijednost"
+            "title": "Value"
           }
         ]
       }
     }
   ],
   "profile": "data-package",
-  "name": "2-4-1-a",
-  "title": "Udio poljoprivrednih površina koje se koriste za produktivnu i održivu poljoprivredu"
+  "name": "2-4-1-n",
+  "title": "Proportion of agricultural area under productive and sustainable agriculture"
 }

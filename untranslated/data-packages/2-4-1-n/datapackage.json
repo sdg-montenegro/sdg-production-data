@@ -12,19 +12,17 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
-            "title": "Year"
+            "type": "number"
           },
           {
             "name": "Value",
-            "type": "number",
-            "title": "Value"
+            "type": "number"
           }
         ]
       }
     }
   ],
   "profile": "data-package",
-  "name": "2-4-1-a",
-  "title": "Proportion of agricultural area under productive and sustainable agriculture"
+  "name": "2-4-1-n",
+  "title": "global_indicators.2-4-1-n-title"
 }

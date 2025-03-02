@@ -12,17 +12,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "number",
+            "title": "Godina"
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "number",
+            "title": "Vrijednost"
           }
         ]
       }
     }
   ],
   "profile": "data-package",
-  "name": "2-4-1-a",
-  "title": "global_indicators.2-4-1-N-title"
+  "name": "2-4-1-n",
+  "title": "Udio poljoprivrednih površina koje se koriste za produktivnu i održivu poljoprivredu"
 }
